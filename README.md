@@ -1,6 +1,6 @@
 # BlackBeard
 
-Xamarin.Forms + Azure + Social login Project created for the four part tutorial:
+JSPM with SystemJS, ES6, AngularJS, TypeScript and ASP.NET Core Project created for the four part tutorial:
 
 1. http://ahoycoders.com/2016/03/28/jspm-systemjs-es6-ts-aspnet-angular/
 2. http://ahoycoders.com/2016/03/28/jspm-with-systemjs-es6-angularjs-typescript-and-asp-net-core-part-2-typescript/
